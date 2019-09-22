@@ -1,0 +1,24 @@
+.tampil{
+    max-width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 1.7;
+
+    
+}
+
+[class *="lebar"]{
+    float: left;
+    min-height: 1px;
+    margin-left: 25px;
+
+}
+
+.box{
+    padding: 20px 20px 20px 20px;
+    text-align: center;
+}
+.row{
+    margin-left: -20px;
+    *zoom: 1;
+}

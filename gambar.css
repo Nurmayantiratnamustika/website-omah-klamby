@@ -1,0 +1,54 @@
+.awal{
+    background-image: url('img/gambar3.JPG');
+    width: 600px;
+    height: 300px;
+    position: relative;
+    float: left;
+    margin: 30px;
+    max-width: 580px;
+    }
+
+.awal p{
+    padding: 14px 16px;
+    color: black;
+    font: bold italic 10px sans-serif;
+    position: absolute;
+    background-color: snow;
+    bottom: 8px;
+    margin-left: 10px;
+
+    }
+
+.awallagi{
+        background-image: url('img/gambar4.JPG');
+        width: 600px;
+        height: 300px;
+        position: relative;
+        float: left;
+        margin: 30px;
+}
+    
+.awallagi p{
+        padding: 14px 16px;
+        color: black;
+        font: bold italic 10px sans-serif;
+        position: absolute;
+        background-color: white;
+        bottom: 8px;
+        margin-left: 10px;
+    
+}
+
+div.awal p:hover {
+            border: 1px solid #777;
+            background-color:#666; 
+	        display:block;
+ }
+
+div.awallagi p:hover {
+    border: 1px solid #777;
+    background-color:#666; 
+    display:block;
+}
+
+

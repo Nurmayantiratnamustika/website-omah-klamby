@@ -1,0 +1,19 @@
+.content{
+    display: block;
+    background-color: #184153;
+    height: 70px;
+    width: 1330px;
+    position: relative;
+}
+
+.judul{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    position: relative;
+}
+
